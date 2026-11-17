@@ -10,14 +10,16 @@ A real-world e-commerce platform developed for an online gadgets and accessories
 ## Project Preview
 
 ### Homepage
-
 ![Pistore BD Homepage](homepage.png)
 
 ### Product Details Page
-
 ![Pistore BD Product Page](product-page.png)
 
+### Admin Dashboard
+![Pistore BD Admin Dashboard](admin-dashboard.png)
+
 🌐 **Live Website:** https://www.pistorebd.com/
+
 
 
 Pistore BD is an e-commerce platform designed to support online retail operations and improve the digital shopping experience.
